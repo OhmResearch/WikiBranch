@@ -1,0 +1,7 @@
+Error when getting information for file '/home/a/Desktop/static-Wikipedia/commons/thumb/b/b8/US_Navy_080629-N-6477M-095_Builder_3rd_Class_Merlyna_Crank_and_Builder_Constructionman_Irene_L._Reeves,_both_assigned_to_Naval_Mobile_Construction_Battalion_(NMCB)_3_Det._4,_place_trimming_on_birthing_spaces_being_built_for_Afg.jpg': File name too long
+
+Error opening file '/home/a/Desktop/static-Wikipedia/commons/thumb/b/b6/Wm._Riley_Blankinship,_miner,_with_his_children._Koppers_Coal_Division,_Kopperston_Mine,_Kopperston,_Wyoming_County..._-_NARA_-_540984.jpg/220px-Wm._Riley_Blankinship,_miner,_with_his_children._Koppers_Coal_Division,_Kopperston_Mine,_Kopperston,_Wyoming_County..._-_NARA_-_540984.jpg': File name too long
+
+Error when getting information for file '/home/a/Desktop/static-Wikipedia/commons/thumb/d/d3/US_Navy_100305-N-7676W-182_Cmdr._Jim_Grove,_from_the_Office_of_Naval_Research_Navy_Reserve_Program_38,_left,_helps_tudents_from_McKinley_Technology_High_School_make_adjustments_to_their_robot.jpg': File name too long
+
+Error opening file '/home/a/Desktop/static-Wikipedia/commons/thumb/5/50/A_full_house,_seen_from_the_rear_of_the_stage,_at_the_Metropolitan_Opera_House_for_a_concert_by_pianist_Josef_Hofmann,_1_-_NARA_-_541890.tif/lossy-page1-220px-A_full_house,_seen_from_the_rear_of_the_stage,_at_the_Metropolitan_Opera_House_for_a_concert_by_pianist_Josef_Hofmann,_1_-_NARA_-_541890.tif.jpg': File name too long
