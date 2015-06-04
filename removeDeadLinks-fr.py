@@ -70,8 +70,8 @@ def removeDeadLinks(filename):
 i=0
 
 #matches = []
-for root, dirnames, filenames in os.walk(mediaFileDir+'l/e/'):
-  for filename in fnmatch.filter(filenames, 'Lena.html'):
+for root, dirnames, filenames in os.walk(mediaFileDir):
+  for filename in fnmatch.filter(filenames, '*.html'):
     if "Subject_" not in filename:
       print(os.path.join(root, filename))
       removeDeadLinks(os.path.join(root, filename))
